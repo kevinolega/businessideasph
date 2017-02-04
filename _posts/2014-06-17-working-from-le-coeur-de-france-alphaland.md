@@ -9,7 +9,7 @@ categories: [Productivity, Work Life Balance]
 <p>If you"re experiencing difficulty completing some tasks, working outside forces you to get job done because you are alone and free from distractions. </p>
 <p>You"re in a nice place where nobody bothers you. So whenever you can"t get something done, just do the work in a different place. </p>
 <p>Today, I"m working from Le Coeur De France Alphaland.</p>
-<p>My meeting got cancelled so I decided to work on some back log tasks.  <a href="http://www.artdirect.org/">Here</a>  are some notes about the experience:</p>
+<p>My meeting got cancelled so I decided to work on some back log tasks.  Here  are some notes about the experience:</p>
 <p>- The place is close to empty, early in the morning so you don"t get distracted.<br />
 - The staff are friendly and helpful.<br />
 - They offer some pastries on a two for the price of one promo.<br />
