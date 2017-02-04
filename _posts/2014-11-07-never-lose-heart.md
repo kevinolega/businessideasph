@@ -12,7 +12,7 @@ categories: [Uncategorized]
 <p>You will work.</p>
 <p>You will spend money and time on necessities and something else.</p>
 <p>The difference is where you put your spare money and spare time.</p>
-<p>If you don"t like the results you are getting, you can look at how you are spending your spare resources. Try something <a href="http://www.dgfev.com/">online casino</a>  else.</p>
+<p>If you don"t like the results you are getting, you can look at how you are spending your spare resources. Try something  else.</p>
 <p>If you have a kid, when do you quit trying to teach him or her how to walk? Until he or she walks right? You don"t quit and say I"ve used too much resources. </p>
 <p>Never lose heart. Failure is directly related to the strategy used or the skill level of your execution.</p>
 
