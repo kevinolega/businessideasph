@@ -14,7 +14,7 @@ categories: [Uncategorized]
 <p>If it"s a restaurant, invite ten of your friends to your house, make them a meal and charge them money.</p>
 <p>If it"s a training service, get your first student and work from there.</p>
 <p>If it"s a corporate service, get yourself hired as a freelancer.</p>
-<p>Get the feedback early <a href="http://www.svenskkasinon.com/">casino</a>  if people are interested and the business is feasible. A lot of businesses are interesting but not feasible and it"s a good idea to get the feedback now than you would if you</p>
+<p>Get the feedback early  if people are interested and the business is feasible. A lot of businesses are interesting but not feasible and it"s a good idea to get the feedback now than you would if you</p>
 <p>Maybe it"s not the idea, maybe it"s the package, the timing, the pricing or something else. Wouldn"t it be a good idea to know?</p>
 <p>Business idea inspired by Derek Sivers. You can visit his website at sivers.org for more practical advice on business and productivity. He also has a collection of business book summaries.</p>
 <p>But what if the idea is really good?</p>
