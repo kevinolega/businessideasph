@@ -4,7 +4,6 @@ title: Welcome to Business Ideas Philippines
 date: 2012-07-24 23:55
 author: biph
 comments: true
-categories: [Uncategorized]
 ---
 Business Ideas Philippines is a resource site that has a collection of business ideas and references to doing business in the Philippines.
 <h3>What's to come?</h3>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spam Strategy
-date: 2012-03-28 12:00
+date: 2012-07-28 12:00
 author: Kevin Olega
 ---
 Spam is generally bad for email and social media. 
