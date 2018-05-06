@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /carousel/
+title: Contact
+permalink: /contact/
 ---
 
 For business inquires please direct your email to kevinolegaservices@gmail.com
