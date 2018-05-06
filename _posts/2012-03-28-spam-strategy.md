@@ -8,28 +8,33 @@ Spam is generally bad for email and social media.
 
 It's annoying and it wastes time. 
 
-Spam is when you build a super generic letter or text message or blog post then hope they get what you're trying to sell or you get hired.
+The way spam is used, is often when you build a super generic letter or text message or blog post then hope the party receiving your message is compelled to take action and buy what you're trying to sell.
 
 I used the spam strategy early on. 
 
-Using the brute force of large numbers seemed to makes sense when you're starting out. 
+I often printed dozens of copies of my resume and went to companies that accepted walk in applications.
 
-It's like the only effective way I tell myself. 
+Using brute force and large numbers seemed to makes sense when you're starting out because you have nothing to lose.
 
+At the time I thought that this was the only effective way.
 
-As I become more successful, I level up and play in a bigger league , spamming seems to be less effective. 
+As I became more successful, I levelled up and played in a bigger league, I found spamming to be less effective. 
 
-I started to notice when I realized that I'm annoyed that people are spamming me.
+I also started to notice that I'm annoyed whenever people I know are spamming me.
+
+I totally get it.
 
 I know you have a message to get across, people don't mind someone telling them about something they can buy. 
 
-Spamming feels the same as getting a megaphone in the ear.
+However, spamming feels the same as getting a megaphone in the ear.
 
-I wouldn't want that so I stopped. Cold turkey. Just like [how I quit facebook](http://minimalchanges.com/why-i-chose-to-live-without-facebook).
+I wouldn't want to be a the receiving end of spam and eventually I stopped. Cold turkey. Just like [how I quit facebook](http://minimalchanges.com/why-i-chose-to-live-without-facebook).
 
-Spamming happens because we're afraid of rejection and failure. 
+Spamming happens because we're afraid of rejection and failure because the faster we move, the less we feel the sting of rejection.
 
-We deliver large numbers so we don't hear the "no's" and as a result we'd rather be ignored.
+We deliver our message to a large audience so we don't hear the "no's" and as a result we'd rather be ignored.
+
+We'd rather hear noise.
 
 There's always a better way. 
 
@@ -57,8 +62,8 @@ Getting rejected doesn't feel painful in reality it's just my fear that's making
 
 Come on, say it! "I'm rejected and it feels very painful!" 
 
-Afterwards, I go yeah right. It's not as painful as it looks. 
+Afterwards, I learned that the rejection is not as painful as I imagined.
 
-See what I mean? It's harmless.
+Try it for yourself and you'll discover too that rejections are harmless.
 
 What's your strategy to go beyond spamming?

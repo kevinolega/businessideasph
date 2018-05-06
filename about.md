@@ -3,19 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-Business Ideas Philippines
 
-Business Ideas Philippines is a resource site that contains a collection of essays, articles, interviews and reference of anything business related.
+Business Ideas Philippines is a website managed by Kevin Olega.
 
-Topics include:
+The mission of Business Ideas is simple.
 
-- Business Ideas
-- Business Software
-- Start up ideas
-- Best Business Practices
-- Outsourcing Business Processes
-- Marketing Business Online
-- Business Book and Podcast Notes
-- and many more!
+We help entrepreneurs execute business tasks.
 
-Business Ideas Philippines is currently curated by [Kevin Olega](http://kevinolega.com).
+This website has:
+
+- Blogposts of business ideas.
+- A directory of service providers that will help with your business.
