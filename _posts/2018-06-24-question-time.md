@@ -1,19 +1,17 @@
 --- 
 layout: post 
-title: Focus with one question
+title: Regain Focus With One Question
 date: 2018-06-24 01:51
 permalink: /best-use-time/ 
 author: Kevin Olega 
 --- 
-
+When you find yourself overwhelmed, here is one question that you can ask yourself to get back into focus.
 
 > "What is the best use of my time?"
 
 We all have long work days.
 
 We all have too many things that need to get done.
-
-When you find yourself overwhelmed, here is one question that you can ask yourself to get back into focus.
 
 Get a notebook.
 
