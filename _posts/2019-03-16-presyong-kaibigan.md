@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 When I was younger, I developed the terrible of habit of asking professional friends and friends who own businesses to provide their products and/or services to me at the lowest possible rates.
 
-**Poisonous way to do business**
+**Poisonous Way to do Business**
 
 I would sometimes go out of my way and ask around friends who know anyone who owns a company or service provider for what I am looking for because my intention was to get the lowest possible price.
 
@@ -45,7 +45,7 @@ Because I expected people to give things to me at a the lowest possible price, I
 
 My aunt found out that I earned 30% from a sale and asked me to give her a 30% discount. I did two days work, spent two days worth of transportation, food and supplies on what we did and I got nothing from that task.
 
-In 2010, my then girlfriend (7 years) broke up with me possibly because of lack of financial progress that resulted from my poor business decisions.
+In 2010, my then girlfriend (7 years) broke up with me possibly because of lack of financial progress that resulted from my poor business decisions. This had resulted in erasing all my progress in my job and finances and I also developed symptoms of PTSD, depresssion and anxiety that I still struggle with to this day.
 
 I became a very poor negotiator, closing deals at the lowest possible price and got fired by employers. Multiple times.
 
@@ -132,6 +132,8 @@ I have a policy of asking for 10% off on everything I buy. Whenever I buy someth
 **Do You Sincerely Want To Support Your Friend**
 
 If a person is really your friend, pay the full asking price and add 30-50% to the price. Pay them in advance. TIP actually means "to insure performance". If a person is happy with the price they are motivated with the work. 
+
+If you are happy with the results, promote your friend in social media. Refer clients to them. Make it easier for your friend to conduct their business.
 
 Do you have problems with your business or career?
 
