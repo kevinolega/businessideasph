@@ -140,3 +140,7 @@ Do you have problems with your business or career?
 Consider paying for services full price. 
 
 It can change your life.
+
+I have a policy. When a friend asks for presyong kaibigan, I consider adding 30-50% to the initial quote price.
+
+If my friend wants to support my work, they'll pay it.
