@@ -2,16 +2,11 @@
 layout: post
 title: Everyone's an Expert by Seth Godin
 date: 2013-05-28 00:14
-author: biph
-comments: true
-categories: [Uncategorized]
+author: Kevin Olega
 ---
-
-![Everyone's an Expert by Seth Godin](https://farm1.staticflickr.com/975/41889653892_ac49441e12_n.jpg)
+I'm paraphrasing a bit.
 
 Everyone"s an expert is the third installment on how to build a website that people go to by Seth Godin. 
-
-I'm paraphrasing a bit.
 
 Seth talks about how people don't search for things to buy online. 
 
@@ -52,3 +47,4 @@ I also noticed Leo Babauta of [ZenHabits](http://ZenHabits.tumblr.com) has a tum
 
 What is your lens?
 
+![Everyone's an Expert by Seth Godin](https://farm1.staticflickr.com/975/41889653892_ac49441e12_n.jpg)

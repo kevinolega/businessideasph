@@ -5,6 +5,7 @@ date: 2018-10-19 03:17
 permalink: /negotiate-salary/ 
 author: Kevin Olega 
 --- 
+In this post, I'll share tips on how to negotiate your salary.
 
 ### Know your benchmark
 
@@ -86,6 +87,3 @@ Remember you are starting over. You are working in a new company. With it you wi
 All else fails ask them what's a fair price for someone with x number of years working in the position? 
 
 Ask them what their best offer is. 
-
-
-Sent from my iPhone
