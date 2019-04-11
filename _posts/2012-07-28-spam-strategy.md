@@ -18,13 +18,13 @@ Using brute force and large numbers seemed to makes sense when you're starting o
 
 At the time I thought that this was the only effective way.
 
-As I became more successful, I levelled up and played in a bigger league, I found spamming to be less effective. 
+As I began to play with better players, I found spamming to be less effective. 
 
-I also started to notice that I'm annoyed whenever people I know are spamming me.
+I also started to notice that my reaction to spam from other people is annoyance.
 
-I totally get it.
+I get it now.
 
-I know you have a message to get across, people don't mind someone telling them about something they can buy. 
+I know you have a message to get across, people don't mind someone telling them about something they can buy.
 
 However, spamming feels the same as getting a megaphone in the ear.
 
