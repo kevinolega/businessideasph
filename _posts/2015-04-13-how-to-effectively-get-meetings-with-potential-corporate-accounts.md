@@ -6,10 +6,12 @@ author: biph
 comments: true
 categories: [Uncategorized]
 ---
-<p><strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong> </p>
-<p>This is a post that somehow got me conflicted to whether I was going to share this or not. You see the goal I have when I write my posts is to share something valuable and at the same time is positive. In this post I had to recall a negative event in my life the story may be somewhat negative at the beginning but somehow without the story I never would have thought about how I got to formulate the plan and learn how effective it is. If you would like to skip the story just go to the bolded list at the end. </p>
-<p>Meetings lead to clients. If you have enough.</p>
-<p>This advice is so effective it could get you fired.</p>
+This is a post that somehow got me conflicted to whether I was going to share this or not. You see the goal I have when I write my posts is to share something valuable and at the same time is positive. In this post I had to recall a negative event in my life the story may be somewhat negative at the beginning but somehow without the story I never would have thought about how I got to formulate the plan and learn how effective it is. If you would like to skip the story just go to the bolded list at the end. 
+
+Meetings lead to clients. If you have enough.
+
+This advice is so effective it could get you fired.
+
 <p>I entered a company at a transition. I was hired as a senior sales rep. The entire sales team had the CEO as the head a VP of project management overseeing deliverables. A sales manager. A sales trainee and two senior sales reps including myself.</p>
 <p>The sales manager had just left and the company and my fellow senior sales manager, being in the company a few months ahead of me got promoted.</p>
 <p>The trainee was about to get fired because she couldn’t sell something. The trainee was hard working but didn’t have the right technique. For three months she had one or two appointments a month. Not too effective. In our field it took maybe ten to fifteen appointments to land a client.</p>
