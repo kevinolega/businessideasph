@@ -2,7 +2,7 @@
 layout: post 
 title: Implement Local Instagram Growth Strategy
 date: 2019-06-03 09:15
-Tags: [ uncategorized, blog ]
+Tags: [ services, blog ]
 permalink: /instagram-comment/ 
 author: Kevin Olega 
 --- 
@@ -42,7 +42,7 @@ Let's prepare that list.
 
 Now.
 
-### How doe we execute the growth strategy on instagram?
+### How do we execute the growth strategy on instagram?
 
 Let's go to Instagram.
 
