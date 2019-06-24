@@ -20,7 +20,6 @@ Digify is a botique, full service, digital agency in the Philippines that has ex
 Brace Digital Solutions provides Web Design and Development, Mobile and Web App Development, Graphic and Video Multimedia Creation, Digital Marketing including SEO, Social Media Marketing, Email Marketing and Content Marketing.
 [Link](http://www.bracedigitalsolutions.com/)
 
-
 #### Social Media Virtual Assistant
 
 Valerie Deveza is a social media virtual assistant provider.
