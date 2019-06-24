@@ -13,6 +13,13 @@ This is a directory of businesses and freelancers that you can engage to help im
 Digify is a botique, full service, digital agency in the Philippines that has experienced with top notch lifestyle, beauty, travel and luxury brands. They provide Digital Marketing, Public Relations and Community Management services.
 [Link](http://digifycorp.com)
 
+#### Full Service Software Development Firm
+
+![Amagi]({{ site.url }}/images/Amagi-logo.png)
+
+Amagi offers Mobile Development, Service Enhancement, Supply and Payroll Solutions, System Infrastructure, Design, Data Science and Data Analysis Solutions and more.
+[Link](https://amagi.io/)
+
 #### Full Service Digital Marketing Firm
 
 ![Brace](http://www.bracedigitalsolutions.com/wp-content/uploads/2018/02/logo-re-upload.png)
