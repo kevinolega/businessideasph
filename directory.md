@@ -15,7 +15,7 @@ Digify is a botique, full service, digital agency in the Philippines that has ex
 
 #### Full Service Software Development Firm
 
-![Amagi]({{ site.url }}/images/Amagi-logo.png)
+![Amagi]({{ site.url }}/images/Amagi.png)
 
 Amagi offers Mobile Development, Service Enhancement, Supply and Payroll Solutions, System Infrastructure, Design, Data Science and Data Analysis Solutions and more.
 [Link](https://amagi.io/)
