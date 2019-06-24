@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Directory
-permalink: /Directory/
+description: This is a directory of businesses and freelancers that you can engage to help implement your business ideas.
+permalink: /directory/
 ---
+This is a directory of businesses and freelancers that you can engage to help implement your business ideas.
 
 #### Digify Corp
 
@@ -40,4 +42,4 @@ Teacher Barbara of Philippines Private English Tutors provides corporate English
 ![The Common Space](https://static.wixstatic.com/media/35ba81_9cb9fe00a688464f8d2d51b0a3927480~mv2.png/v1/fill/w_281,h_61,al_c,usm_0.66_1.00_0.01/35ba81_9cb9fe00a688464f8d2d51b0a3927480~mv2.png)
 
 The Common Space is a cozy coworking space in BF Parañaque.
-[Link](https://www.thecommonspace.ph/)
+[Link](https://philippineislandliving.com/common-space)
