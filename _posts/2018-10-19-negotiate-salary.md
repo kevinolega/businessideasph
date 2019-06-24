@@ -53,7 +53,7 @@ That amount affects your annual salary thirteen times.
 
 If they negotiate down remember that any amount you reduce from your asking salary gets multiplied by thirteen. 
 
-## Bracket - Expected range or preference. 
+### Bracket - Expected range or preference. 
 
 **Application:**
 
@@ -62,7 +62,6 @@ If they negotiate down remember that any amount you reduce from your asking sala
 **Offer C:** really high price in exchange for what the party needs. 
 
 If I want my offer to be the most desirable to the other party and to prevent them for negotiating my price down, I will need to present offer B along with offer A and C so they have a comparison. 
-
 
 **Things to look at in a job offer:**
 
@@ -76,14 +75,28 @@ Companies may increase your salary and lower your benefits or extra perks.
 
 In the event that salary can NOT be negotiated you may instead negotiate vacation leaves and other benefits. 
 
-**Don't immediately say yes.** Tell them you need to think about it. Don't sign anything until you are sure you want the terms that they are giving you. 
+**Don't immediately say yes.** 
 
-In the absence of years of experience. And previous salary that matches your asking salary then your alternate negotiating advantage would be offers from other companies. Make sure you have other offers. Instead of negotiating against them make each company negotiate with the offer of other companies. 
+Tell them you need to think about it. 
+
+Don't sign anything until you are sure you want the terms that they are giving you. 
+
+In the absence of years of experience. 
+
+And previous salary that matches your asking salary then your alternate negotiating advantage would be offers from other companies. 
+
+Make sure you have other offers. 
+
+Instead of negotiating against them make each company negotiate with the offer of other companies. 
 
 **10-15-20% increase is generally acceptable but why settle if you can ask for higher.** 
 
-Remember you are starting over. You are working in a new company. With it you will carry risk that if things don't turn out well you will be inconvenienced and out of a job for a certain time period. 
+Remember you are starting over. 
+
+You are working in a new company. 
+
+With it, you will carry risk that if things don't turn out well you will be inconvenienced and out of a job for a certain time period. 
 
 All else fails ask them what's a fair price for someone with x number of years working in the position? 
 
-Ask them what their best offer is. 
+Ask them what their best offer is.

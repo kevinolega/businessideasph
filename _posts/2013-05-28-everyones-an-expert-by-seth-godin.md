@@ -4,13 +4,11 @@ title: Everyone's an Expert by Seth Godin
 date: 2013-05-28 00:14
 author: Kevin Olega
 ---
-I'm paraphrasing a bit.
-
-Everyone"s an expert is the third installment on how to build a website that people go to by Seth Godin. 
+Everyone's an Expert is the third installment on how to build a website that people go to by Seth Godin. 
 
 Seth talks about how people don't search for things to buy online. 
 
-People search to make sense of things and  to take action based on what makes sense for them to do so.
+People search to make sense of things and take action based on what makes sense for them to do so.
 
 High traffic blogs receive a lot of traffic for a specific reason. 
 
@@ -36,8 +34,7 @@ What you just read, your wish list, your Flickr photos and so on.
 
 This website is my lens.
 
-
-I think another application of adding a lens is by placing a context on your website that"s easily seen or noticed like on the sidebar. 
+I think another application of adding a lens is by placing a context on your website that's easily seen or noticed like on the sidebar. 
 
 So the viewer will know in one or two sentences who you are and what your website is about.
 

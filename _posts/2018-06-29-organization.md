@@ -5,13 +5,11 @@ date: 2018-06-29 19:39
 permalink: /organization/ 
 author: Kevin Olega 
 --- 
+This is the quote I'm pondering.
 
 I wrote this and posted it in a small photo frame in my room that serves as a makeshift whiteboard.
 
 > "Organizations are powerful because they are organized."
-
-
-This is the quote I'm pondering.
 
 Being organized is a state that brought out my focus and resulted in me being productive at enough important tasks that moved my goals forward.
 
@@ -61,4 +59,3 @@ The application of specificity is not limited to what leaders tell their staff, 
 1. Be extremely specific.
 2. Keep clutter out of the way.
 3. Make resources accessible and non-essensials inaccessible.
-

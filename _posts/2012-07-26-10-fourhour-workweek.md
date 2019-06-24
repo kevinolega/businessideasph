@@ -41,7 +41,7 @@ Instead of setting goals and dwelling on them, the ideas is to imagine and defin
 
 Stare at it. 
 
-After writing everything down you’ll realize that if you go after your goal on a scale of 1-10 the potential upside is usually an 8 or 9 and the downside on the worst case is meerly a 2 or 3. 
+After writing everything down you’ll realize that if you go after your goal on a scale of 1-10 the potential upside is usually an 8 or 9 and the downside on the worst case is merely a 2 or 3. 
 
 Ask yourself. What’s the worst thing that could happen? 
 
@@ -58,7 +58,7 @@ Instead of working on something far off. Work on something you can do right now.
 
 We all consume a lot of information on a regular basis. 
 
-We have email, news, twitter, facebook and so on. 
+We have email, news, Twitter, Facebook, Instagram and so on. 
 
 We also have other stuff coming in on a regular basis. 
 
@@ -82,7 +82,7 @@ What are the 20% of the things that contributes to 80% of my profit and happines
 
 What are the 20% of the things that contributes to 80% of my frustration and lost time?
 
-**6. Parkinson’s Law
+**6. Parkinson’s Law**
 
 Parkinson’s Law states that the actual amounts will rise to meet the allotted amount. 
 

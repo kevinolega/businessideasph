@@ -69,4 +69,3 @@ Given the specific nature of my diet and the convenience of the location, I'll p
 
 
 
-

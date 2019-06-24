@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Notes from Seth Godin and Tim Ferriss
+title: Notes from Seth Godin and Tim Ferriss Podcast
 date: 2016-11-13 02:48
 author: Kevin Olega
 comments: true
 ---
-
 I recently listened to Seth Godin at Tim Ferriss Show. 
 
 I got to take down notes and after reading found several useful ideas and I decided to share here.
@@ -113,8 +112,9 @@ Brands are built around the edges.
 **Needs**
 
 Humans don't need just what's new. Humans need to..
+
 - be connected 
-- be seens 
+- be seen 
 -understood, get what they need when they need.
 
 **Becoming the Key Supplier**
@@ -126,6 +126,7 @@ I'm going for someone who is happily engaged.
 Become the key supplier. I get the gig not because I am cheaper but because I am better. 
 
 I'm better at..
+
 - knowing the customer 
 - being flexible
 - better at going the extra mile
@@ -156,6 +157,7 @@ If you'd like to listen to the full conversation, you may visit the [Seth Godin 
 Here's something else I learned listening to Seth
 
 **More perfect**
+
 Most people in the US can't cook. So you would think that reaching out to the masses with entry-level cooking instruction would be a smart business move.
 
 In fact, as the Food Network and cookbook publishers have demonstrated over and over again, you're way better off helping the perfect improve. You'll also sell a lot more management consulting to well run companies, high end stereos to people with good stereos and yes, church services to the already well behaved.
