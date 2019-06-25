@@ -6,6 +6,8 @@ Tags: [ services, blog ]
 permalink: /project-management/ 
 author: Kevin Olega 
 --- 
+It's easy to take on too much and get overwhelmed.
+
 Here are ways that I can help manage your projects.
 
 - I take the project specifications and information we are provided and we are able to build websites and online marketing campaigns.
