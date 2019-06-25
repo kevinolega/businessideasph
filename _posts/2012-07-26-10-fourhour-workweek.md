@@ -3,11 +3,11 @@ layout: post
 title: 10 Business Ideas from the Four Hour Work Week.
 date: 2012-07-26 23:00
 author: biph
+permalink: /fourhourworkweek
 comments: true
 categories: [Uncategorized]
 ---
-
-[The Four Hour Work Week](http://fourhourworkweek.com) is a business and productivity book written by Tim Ferriss, one of my favorite authors. 
+The Four Hour Work Week is a business and productivity book written by Tim Ferriss, one of my favorite authors. 
 
 This book had changed my life.
 
@@ -96,7 +96,9 @@ And this applies to every other area of your life and business.
 
 So you use Parkinson’s Law to your advantage is to set really small budgets and really short deadlines.
 
-The amount of space will be filled up to the extent of how much you will allow it to be filled up. For example,
+The amount of space will be filled up to the extent of how much you will allow it to be filled up.
+
+A big room usually gets filled with clutter.
 
 **7.If you can’t define it or act upon it, forget it**
 
@@ -152,6 +154,10 @@ That way you don't have to spend a lot of time micromanaging them.
 
 That's it for now. 
 
-If you enjoyed this post, I highly recommend getting yourself a copy of the book. 
+If you enjoyed this post. 
 
-Have you read the Four Hour Workweek by Tim Ferriss? What is your experience? Feel free to share in the comments below.
+I highly recommend getting yourself a copy of the book [The Four Hour Work Week](http://fourhourworkweek.com).
+
+Have you read the Four Hour Workweek by Tim Ferriss? 
+
+What is your experience? 
