@@ -7,7 +7,7 @@ permalink: /contact/
 
 #### The best way to evaluate if our services match your needs is by talking to me. 
 
-#### Here's my available schedule.
+#### Here's my available schedule:
 
 <!-- Calendly inline widget begin -->
 <iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
