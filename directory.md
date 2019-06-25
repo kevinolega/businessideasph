@@ -4,6 +4,8 @@ title: Directory
 description: This is a directory of businesses and freelancers that you can engage to help implement your business ideas.
 permalink: /directory/
 ---
+# Directory
+
 This is a directory of businesses and freelancers that you can engage to help implement your business ideas.
 
 #### Digify Corp

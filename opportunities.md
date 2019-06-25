@@ -3,7 +3,9 @@ layout: page
 title: Opportunities
 permalink: /opportunities/
 ---
-## Buying
+# Opportunities
+
+#### Buying
 
 **Beef**
 
@@ -11,7 +13,7 @@ We require a regular supply of Prime Rib on a weekly basis.
 
 If you are willing to deliver to Parañaque City, please call 09178952637 for details.
 
-## Selling
+#### Selling
 
 **English Tutorial for Business Professionals**
 
@@ -22,7 +24,7 @@ Skype, PLDT Landline, Globe Telecom.
 
 Please call 09178952637 for details.
 
-## Hiring
+#### Hiring
 
 **Financial Planner:**
 

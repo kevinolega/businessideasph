@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About
+
 Business Ideas Philippines is a website managed by Kevin Olega.
 
 Ideas have zero value unless executed.
