@@ -34,7 +34,7 @@ And so do I.
 
 Because we have cleared most things off my plate.
 
-## I can imagine why you're here...
+#### I can imagine why you're here...
 
 I get that things are not moving forward on your end.
 
@@ -42,7 +42,7 @@ Some balls are being dropped.
 
 And you are suffering different consequences.
 
-## So what I am offering you...
+#### So what I am offering you...
 
 Is something that I have done myself.
 
@@ -56,7 +56,7 @@ And I’m not offering to change your life.
 
 I am offering to give you the assistance so you will regain the power to change yours.
 
-## Here's a little something you need to understand about me...
+#### Here's a little something you need to understand about me...
 
 I have an extremely low politeness personality score.
 
@@ -70,7 +70,7 @@ I’m not going to leave you in that vulnerable spot.
 
 I’ll tell you what can be done to move things forward.
 
-## I can help you break old habits.
+#### I can help you break old habits.
 
 And bad habits.
 
@@ -86,7 +86,7 @@ It’s insight from a guy who struggled with problems and figured out what works
 
 And because you’ll be paying me, I’ll call you on your bullshit.
 
-## Let's just get this part out of the way.
+#### Let's just get this part out of the way.
 
 Financially, I’m okay.
 
@@ -104,7 +104,7 @@ A writer is outsourced to take care of most of my job applications.
 
 And I'm all set.
 
-## Because I’ve taken a liking to your situation.
+#### Because I’ve taken a liking to your situation.
 
 I’m not going to sugar coat anything for you.
 
@@ -114,7 +114,7 @@ The other thing you need to know is that I don’t compete with price.
 
 The rate I’m offering is $16/hour.
 
-## I can give you something better than a morning wake up call and goal setting...
+#### I can give you something better than a morning wake up call and goal setting...
 
 I can call you in the morning, if you need me to, but I’d rather only do this for a short period. 
 
@@ -126,7 +126,7 @@ Nothing you do will ever be enough to make up for it.
 
 If you lose sleep you fuck up your ability to make the right decisions.
 
-## I can get you better value than sending you notes on what you said and following up on missing tasks...
+#### I can get you better value than sending you notes on what you said and following up on missing tasks...
 
 And sure, I’ll write down the answer to your questions and send it to you.
 
@@ -138,11 +138,11 @@ I’ll help you 80-20 your tasks and cancel all the things that you need to canc
 
 I’ll help you review at the end of the day. I’d rather teach you how to journal effectively but if this works for you, let’s do it until you are more competent.
 
-## I'm a little slower but I guarantee results...
+#### I'm a little slower but I guarantee results...
 
 Let’s aim low and stay consistent then make progress.
 
-## I'll listen to you but I'll keep you on point...
+#### I'll listen to you but I'll keep you on point...
 
 I don’t recommend you tell me what you’re doing. Because the mind is often tricked into confusing the talking for the doing.
 
@@ -160,7 +160,7 @@ I’ll even send you a printable template that I have used for this.
 
 I also have resources for goal setting that will help you design the life that you want.
 
-## I'll challenge you to put your money where your mouth is...
+#### I'll challenge you to put your money where your mouth is...
 
 The biggest element that keeps people accountable is a cash consequence.
 
@@ -182,7 +182,7 @@ You're welcome to do so.
 
 But don't say I didn't warn you.
 
-## How much is your time worth again?
+#### How much is your time worth again?
 
 I can call you on your timezone and I’m fluent in English.
 
