@@ -1,11 +1,50 @@
-title: Business Ideas Philippines
-author: Kevin Olega
-email: kevinolegaservices@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Turn your ideas into reality
+### your site title here
 
-twitter_username: kevinolega
-github_username:  kevinolega
+title: BUSINESS IDEAS PHILIPPINES
+email: kevin@callcentertrainingtips.com
+description: > # this means to ignore newlines until "baseurl:"
+  Business ideas Philippines. Helping businesses with Filipinos. Helping Filipinos with business.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://businessideasph.com" # the base hostname & protocol for your site
+
+permalink: /:title/
+
+highlighter: rouge
+markdown: kramdown
+### exclude the instructions / write-up in the README.md
+
+
+# Tracker
+analytics: UA-30944342-1
+
+# Comments
+disqus-shortname: businessideasph
+
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+  
 
 sass:
-    style: compressed
+ style: compressed
+
+exclude:
+- README.md
+
+paginate: 40
+
+url: "https://businessideasph.com" # the base hostname & protocol for your site
+
+plugins:
+  - jekyll-sitemap
+
+gems: [jekyll-seo-tag, jekyll-paginate, jekyll-feed ]
