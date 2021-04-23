@@ -106,6 +106,6 @@ Samurai were also proficient with Jiujitsu, wrestling, and Aikijitsu.
 
 Are you conducting your business with the proficiency of an elite warrior?
 
-Alternatively, are you fighting like an extra that gets killed easily in war movies?
+Alternatively, are you fighting like an extra that easily gets killed in war movies?
 
 What range can you fight in?

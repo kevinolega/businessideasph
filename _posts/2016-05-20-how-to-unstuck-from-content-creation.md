@@ -2,7 +2,7 @@
 layout: post
 title: How To Unstuck From Content Creation
 date: 2016-05-20 20:14
-author: biph
+author: Kevin Olega
 comments: true
 categories: [Productivity]
 ---

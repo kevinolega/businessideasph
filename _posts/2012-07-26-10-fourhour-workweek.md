@@ -2,7 +2,7 @@
 layout: post
 title: 10 Business Ideas from the Four Hour Work Week.
 date: 2012-07-26 23:00
-author: biph
+author: Kevin Olega
 permalink: /fourhourworkweek
 comments: true
 categories: [Uncategorized]

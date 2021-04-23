@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Business Ideas Philippines
 date: 2012-07-24 23:55
-author: biph
+author: Kevin Olega
 comments: true
 ---
 Business Ideas Philippines is a resource for people who value their time. 
