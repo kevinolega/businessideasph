@@ -23,4 +23,4 @@ Here are the steps.
 5. Do that.
 6. Repeat the process over the next few weeks.
 
-Tell me your thoughts in the comments below. If you have questions send me an email at kevin olega at gmail dot com.
+Tell me your thoughts in the comments below. If you have questions send me an email at kevin at olega dot org.
